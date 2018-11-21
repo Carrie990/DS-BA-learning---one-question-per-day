@@ -1,0 +1,17 @@
+-- DS Interview question
+What is regularization? The difference between Lasso vs Ridge?
+
+Regularization is a process of introducing additional information in order to solve an ill-posed problem or to prevent overfitting.
+
+1) For Lasso regression, the regularization term is a L1 norm
+2) For Ridget regression, the regularization term is a L2 norm
+
+
+refernce :https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+
+-- BA Interview question
+What is Marketing Mix Model(MMM)?
+Marketing mix model is a statistical analysis such as multivariate regressions on sales and marketing time sereies data to estimate the impact of various marketing tactics(marketing mix) on sales and then forecast the impact of future sets of tactics.
+It is often used to optimize advertising mix and promotional tactics with respect to sales revenue or profit.
+
+reference:https://en.wikipedia.org/wiki/Marketing_mix_modeling
